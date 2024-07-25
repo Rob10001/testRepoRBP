@@ -1,0 +1,1 @@
+print("Sigma Skibidi Rizz")
